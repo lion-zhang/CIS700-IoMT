@@ -30,8 +30,11 @@ a {
   color: #33f;
 }
 
+
+td {
+  text-align: center;
+}
 hr {
 }
-
 /* CSS Document */
 
