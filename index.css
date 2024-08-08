@@ -30,13 +30,23 @@ a {
   color: #33f;
 }
 
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
 
 td {
-  text-align: center;
+  padding: 8px;
+  text-align: left;
 }
 
 tr:nth-child(even) {
   background-color: #f2f3f4;
 }
+
+tr.active-row {
+  background-color: silver;
+}
+
 /* CSS Document */
 
